@@ -1,0 +1,12 @@
+node_modules
+.nuxt
+.output
+dist
+.env
+.DS_Store
+*.log
+.idea
+
+# Исходники заказчика и проект-образец — входные материалы, не код портала
+sistema-snabzheniya-master/
+*.html
